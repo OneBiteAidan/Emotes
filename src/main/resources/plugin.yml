@@ -1,0 +1,6 @@
+main: io.github.onebiteaidan.emotes.Emotes
+name: Emotes
+version: 1.0
+author: OneBiteAidan
+
+commands:
